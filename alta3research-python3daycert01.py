@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 #A.R. 20220526v1
 #import date and time
-:
+
 from datetime import datetime
 
 now = datetime.now()
